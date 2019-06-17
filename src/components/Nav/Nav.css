@@ -1,6 +1,7 @@
 .navbar {
   background: maroon;
   min-height: 80px;
+  font-family: Arvo, cursive;
   position: fixed top;
   width: 100%;
   color: rgb(255, 255, 255);
