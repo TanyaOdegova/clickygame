@@ -1,3 +1,17 @@
+# Archer Click Game - React memory Game
+## Summary
+The application should render different images of Archer characters to the screen. Each image should listen for click events.
+The application should keep track of the user's score. The user's score should be incremented when clicking an image for the first time. The user's score should be reset to 0 if they click the same image more than once.
+Every time an image is clicked, the images rendered to the page should shuffle themselves in a random order.
+Once the user's score is reset after an incorrect guess, the game should restart.
+## Live demo -->
+![archer gif](/public/archergif.gif "archer")
+## This site is deployed via Netlify
+[Live link](https://clickable-archer.netlify.com/)
+## Technology used:
+React
+---
+# React instructions
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
