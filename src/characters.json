@@ -1,1 +1,107 @@
-placeholder for Archer pictures
+[
+  {
+    "id": 1,
+    "image": "../archer/archer.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "../archer/barry.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "../archer/lana.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "../archer/pam.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "../archer/cheryl.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "../archer/mallory.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "../archer/charlene.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "../archer/cyril.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "../archer/raymond.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "../archer/katya.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "../archer/rastapam.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "../archer/mallorydreamland.jpg",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "image": "../archer/phrasingarcher.jpg",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "image": "../archer/archerdreamland.jpg",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "image": "../archer/lanadreamland.jpg",
+    "clicked": false
+  },
+  {
+    "id": 16,
+    "image": "../archer/mitsuko.jpg",
+    "clicked": false
+  },
+  {
+    "id": 17,
+    "image": "./archer/krieger.jpg",
+    "clicked": false
+  },
+  {
+    "id": 18,
+    "image": "./archer/jazzhands.jpg",
+    "clicked": false
+  },
+  {
+    "id": 19,
+    "image": "./archer/uniformkatya.jpg",
+    "clicked": false
+  },
+  {
+    "id": 20,
+    "image": "./archer/russiangeneral.jpg",
+    "clicked": false
+  },
+  {
+    "id": 21,
+    "image": "./archer/woodhouse.jpg",
+    "clicked": false
+  }
+]
